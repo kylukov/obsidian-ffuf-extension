@@ -1,0 +1,9 @@
+{
+	"id": "obsidian-ffuf",
+	"name": "FFUF Parser",
+	"version": "0.3.1",
+	"minAppVersion": "1.0.0",
+	"description": "Парсит результаты сканирования ffuf (JSON, NDJSON, консоль) и превращает их в markdown-таблицу.",
+	"author": "kylukov",
+	"isDesktopOnly": false
+}

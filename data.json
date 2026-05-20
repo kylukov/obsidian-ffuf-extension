@@ -1,0 +1,82 @@
+{
+    "query": "host.ip = \"78.41.199.0/24\"",
+    "field": "host.services.ip",
+    "total_count": 14,
+    "other_count": 0,
+    "buckets": [
+        {
+            "key": "78.41.199.22",
+            "count": 2,
+            "isLocked": false
+        },
+        {
+            "key": "78.41.199.126",
+            "count": 2,
+            "isLocked": false
+        },
+        {
+            "key": "78.41.199.213",
+            "count": 2,
+            "isLocked": false
+        },
+        {
+            "key": "78.41.199.241",
+            "count": 2,
+            "isLocked": false
+        },
+        {
+            "key": "78.41.199.5",
+            "count": 1,
+            "isLocked": false
+        },
+        {
+            "key": "78.41.199.10",
+            "count": 1,
+            "isLocked": false
+        },
+        {
+            "key": "78.41.199.43",
+            "count": 1,
+            "isLocked": false
+        },
+        {
+            "key": "78.41.199.50",
+            "count": 1,
+            "isLocked": false
+        },
+        {
+            "key": "78.41.199.82",
+            "count": 1,
+            "isLocked": false
+        },
+        {
+            "key": "78.41.199.105",
+            "count": 1,
+            "isLocked": false
+        },
+        {
+            "key": "78.41.199.117",
+            "count": 1,
+            "isLocked": false
+        },
+        {
+            "key": "78.41.199.130",
+            "count": 1,
+            "isLocked": false
+        },
+        {
+            "key": "78.41.199.234",
+            "count": 1,
+            "isLocked": false
+        },
+        {
+            "key": "78.41.199.240",
+            "count": 1,
+            "isLocked": false
+        }
+    ],
+    "query_duration_millis": 310,
+    "errors": [],
+    "is_more_than_total_hits": false,
+    "totals_are_consistent": true
+}
