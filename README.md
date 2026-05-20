@@ -1,5 +1,6 @@
 # FFUF Parser — плагин для Obsidian
 
+![](img/demo.gif)
 Парсит результаты [ffuf](https://github.com/ffuf/ffuf) и превращает их в markdown-таблицу в vault.
 
 ## Поддерживаемые форматы
